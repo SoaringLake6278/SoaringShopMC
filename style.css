@@ -1,0 +1,161 @@
+body
+{
+    background-image: url("http://minecraft.pl//HLIC/7c096051840a7f147b7994b1593b0112.jpg");
+}
+.center
+{
+ 
+    margin: 0px;
+    float: left;
+    max-width: 999999px;
+    max-height: 999999px;
+    width: 85%;
+    height: 593px;
+    min-width: 128px:
+    min-height: 128px;
+    background-color:  rgba(242,242,237,0.8);
+
+}
+.menu2
+{
+    margin: 0px;
+    float: none;
+    max-width: 999999px;
+    max-height: 999999px;
+    width: 100%;
+    height: 49px;
+    min-width: 128px:
+    min-height: 128px;
+    background-color: white;
+    border-radius: 5px;
+}
+.info
+{ 
+    float: left;
+    margin: 0px;
+    position: right;
+    max-width: 999999px;
+    max-height: 999999px;
+    width: 15%;
+    height: 593px;
+    min-width: 128px:
+    min-height: 128px;
+    background-color:  rgba(255,255,255,0.8);
+
+}
+.asd
+{
+float: left;
+margin: 7px;
+width: 45%;
+}
+.ranga
+{
+float: left;
+width: 120px;
+height: 175px;
+background-color: gray;
+margin: 5px;
+}
+admin
+{
+opacity: 1 !important;
+background-color: red;
+border-radius: 5px;
+}
+mod
+{
+opacity: 1 !important;
+background-color: green;
+border-radius: 5px;
+}
+
+
+
+
+
+.nav
+{
+position: sticky;
+left: 0px;
+margin-right: 0px;
+margin-bottom: 14px;
+padding-top: 0px;
+padding-bottom: 8px;
+padding-right: 5px;
+padding-left: 0px;
+    width: 100%
+}
+ 
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1da6f9;
+   font-size: large;
+}
+ 
+li {
+    float: left;
+}
+ 
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 8px;
+    text-decoration: none;
+}
+ 
+li a:hover {
+    background-color: #ffffff;
+    color: #1da6f9;
+}
+
+.test
+{
+float:right;
+
+}
+@media only screen and (max-width: 680px) {
+   .test {  float: left; }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 680px) {
+   .asd {  width: 100%; }
+}
+@media only screen and (max-width: 680px) {
+   .info { float: down; width: 100%; height: 380px; }
+}
+@media only screen and (max-width: 680px) {
+   .center { width: 100%; }
+}
+@media only screen and (max-width: 680px) {
+   .menu2 { width: 100%; height: 100px }
+}
+
+
+
+
+
+footer
+{
+ background-color: #FAFAFA;
+}
+.row
+{
+ heigh: 5cm;
+}
